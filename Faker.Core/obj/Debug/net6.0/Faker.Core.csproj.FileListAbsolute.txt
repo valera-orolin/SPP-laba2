@@ -1,0 +1,24 @@
+D:\studying\BSUIR_3_Course-master\SPP\SPP_lab2_faker\Faker.Core\bin\Debug\net6.0\Faker.Core.deps.json
+D:\studying\BSUIR_3_Course-master\SPP\SPP_lab2_faker\Faker.Core\bin\Debug\net6.0\Faker.Core.dll
+D:\studying\BSUIR_3_Course-master\SPP\SPP_lab2_faker\Faker.Core\bin\Debug\net6.0\Faker.Core.pdb
+D:\studying\BSUIR_3_Course-master\SPP\SPP_lab2_faker\Faker.Core\obj\Debug\net6.0\Faker.Core.csproj.AssemblyReference.cache
+D:\studying\BSUIR_3_Course-master\SPP\SPP_lab2_faker\Faker.Core\obj\Debug\net6.0\Faker.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\studying\BSUIR_3_Course-master\SPP\SPP_lab2_faker\Faker.Core\obj\Debug\net6.0\Faker.Core.AssemblyInfoInputs.cache
+D:\studying\BSUIR_3_Course-master\SPP\SPP_lab2_faker\Faker.Core\obj\Debug\net6.0\Faker.Core.AssemblyInfo.cs
+D:\studying\BSUIR_3_Course-master\SPP\SPP_lab2_faker\Faker.Core\obj\Debug\net6.0\Faker.Core.csproj.CoreCompileInputs.cache
+D:\studying\BSUIR_3_Course-master\SPP\SPP_lab2_faker\Faker.Core\obj\Debug\net6.0\Faker.Core.dll
+D:\studying\BSUIR_3_Course-master\SPP\SPP_lab2_faker\Faker.Core\obj\Debug\net6.0\refint\Faker.Core.dll
+D:\studying\BSUIR_3_Course-master\SPP\SPP_lab2_faker\Faker.Core\obj\Debug\net6.0\Faker.Core.pdb
+D:\studying\BSUIR_3_Course-master\SPP\SPP_lab2_faker\Faker.Core\obj\Debug\net6.0\ref\Faker.Core.dll
+D:\studying\лабы СПП\лаба 2\ex1SPP_lab2_faker\Faker.Core\bin\Debug\net6.0\Faker.Core.deps.json
+D:\studying\лабы СПП\лаба 2\ex1SPP_lab2_faker\Faker.Core\bin\Debug\net6.0\Faker.Core.dll
+D:\studying\лабы СПП\лаба 2\ex1SPP_lab2_faker\Faker.Core\bin\Debug\net6.0\Faker.Core.pdb
+D:\studying\лабы СПП\лаба 2\ex1SPP_lab2_faker\Faker.Core\obj\Debug\net6.0\Faker.Core.csproj.AssemblyReference.cache
+D:\studying\лабы СПП\лаба 2\ex1SPP_lab2_faker\Faker.Core\obj\Debug\net6.0\Faker.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\studying\лабы СПП\лаба 2\ex1SPP_lab2_faker\Faker.Core\obj\Debug\net6.0\Faker.Core.AssemblyInfoInputs.cache
+D:\studying\лабы СПП\лаба 2\ex1SPP_lab2_faker\Faker.Core\obj\Debug\net6.0\Faker.Core.AssemblyInfo.cs
+D:\studying\лабы СПП\лаба 2\ex1SPP_lab2_faker\Faker.Core\obj\Debug\net6.0\Faker.Core.csproj.CoreCompileInputs.cache
+D:\studying\лабы СПП\лаба 2\ex1SPP_lab2_faker\Faker.Core\obj\Debug\net6.0\Faker.Core.dll
+D:\studying\лабы СПП\лаба 2\ex1SPP_lab2_faker\Faker.Core\obj\Debug\net6.0\refint\Faker.Core.dll
+D:\studying\лабы СПП\лаба 2\ex1SPP_lab2_faker\Faker.Core\obj\Debug\net6.0\Faker.Core.pdb
+D:\studying\лабы СПП\лаба 2\ex1SPP_lab2_faker\Faker.Core\obj\Debug\net6.0\ref\Faker.Core.dll
