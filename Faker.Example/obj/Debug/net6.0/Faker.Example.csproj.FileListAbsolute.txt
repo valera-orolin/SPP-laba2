@@ -1,0 +1,16 @@
+D:\studying\лабы СПП\лаба 2\ex1SPP_lab2_faker\Faker.Example\bin\Debug\net6.0\Faker.Example.exe
+D:\studying\лабы СПП\лаба 2\ex1SPP_lab2_faker\Faker.Example\bin\Debug\net6.0\Faker.Example.deps.json
+D:\studying\лабы СПП\лаба 2\ex1SPP_lab2_faker\Faker.Example\bin\Debug\net6.0\Faker.Example.runtimeconfig.json
+D:\studying\лабы СПП\лаба 2\ex1SPP_lab2_faker\Faker.Example\bin\Debug\net6.0\Faker.Example.dll
+D:\studying\лабы СПП\лаба 2\ex1SPP_lab2_faker\Faker.Example\bin\Debug\net6.0\Faker.Example.pdb
+D:\studying\лабы СПП\лаба 2\ex1SPP_lab2_faker\Faker.Example\bin\Debug\net6.0\Faker.Core.dll
+D:\studying\лабы СПП\лаба 2\ex1SPP_lab2_faker\Faker.Example\bin\Debug\net6.0\Faker.Core.pdb
+D:\studying\лабы СПП\лаба 2\ex1SPP_lab2_faker\Faker.Example\obj\Debug\net6.0\Faker.Example.csproj.AssemblyReference.cache
+D:\studying\лабы СПП\лаба 2\ex1SPP_lab2_faker\Faker.Example\obj\Debug\net6.0\Faker.Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\studying\лабы СПП\лаба 2\ex1SPP_lab2_faker\Faker.Example\obj\Debug\net6.0\Faker.Example.csproj.CoreCompileInputs.cache
+D:\studying\лабы СПП\лаба 2\ex1SPP_lab2_faker\Faker.Example\obj\Debug\net6.0\Faker.Example.csproj.CopyComplete
+D:\studying\лабы СПП\лаба 2\ex1SPP_lab2_faker\Faker.Example\obj\Debug\net6.0\Faker.Example.dll
+D:\studying\лабы СПП\лаба 2\ex1SPP_lab2_faker\Faker.Example\obj\Debug\net6.0\refint\Faker.Example.dll
+D:\studying\лабы СПП\лаба 2\ex1SPP_lab2_faker\Faker.Example\obj\Debug\net6.0\Faker.Example.pdb
+D:\studying\лабы СПП\лаба 2\ex1SPP_lab2_faker\Faker.Example\obj\Debug\net6.0\Faker.Example.genruntimeconfig.cache
+D:\studying\лабы СПП\лаба 2\ex1SPP_lab2_faker\Faker.Example\obj\Debug\net6.0\ref\Faker.Example.dll
