@@ -1,0 +1,12 @@
+D:\studying\лабы СПП\лаба 2\ex1SPP_lab2_faker\Test.Classes\bin\Debug\net6.0\Test.Classes.deps.json
+D:\studying\лабы СПП\лаба 2\ex1SPP_lab2_faker\Test.Classes\bin\Debug\net6.0\Test.Classes.dll
+D:\studying\лабы СПП\лаба 2\ex1SPP_lab2_faker\Test.Classes\bin\Debug\net6.0\Test.Classes.pdb
+D:\studying\лабы СПП\лаба 2\ex1SPP_lab2_faker\Test.Classes\obj\Debug\net6.0\Test.Classes.csproj.AssemblyReference.cache
+D:\studying\лабы СПП\лаба 2\ex1SPP_lab2_faker\Test.Classes\obj\Debug\net6.0\Test.Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\studying\лабы СПП\лаба 2\ex1SPP_lab2_faker\Test.Classes\obj\Debug\net6.0\Test.Classes.AssemblyInfoInputs.cache
+D:\studying\лабы СПП\лаба 2\ex1SPP_lab2_faker\Test.Classes\obj\Debug\net6.0\Test.Classes.AssemblyInfo.cs
+D:\studying\лабы СПП\лаба 2\ex1SPP_lab2_faker\Test.Classes\obj\Debug\net6.0\Test.Classes.csproj.CoreCompileInputs.cache
+D:\studying\лабы СПП\лаба 2\ex1SPP_lab2_faker\Test.Classes\obj\Debug\net6.0\Test.Classes.dll
+D:\studying\лабы СПП\лаба 2\ex1SPP_lab2_faker\Test.Classes\obj\Debug\net6.0\refint\Test.Classes.dll
+D:\studying\лабы СПП\лаба 2\ex1SPP_lab2_faker\Test.Classes\obj\Debug\net6.0\Test.Classes.pdb
+D:\studying\лабы СПП\лаба 2\ex1SPP_lab2_faker\Test.Classes\obj\Debug\net6.0\ref\Test.Classes.dll
